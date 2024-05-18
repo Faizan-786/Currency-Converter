@@ -23,8 +23,10 @@ let hero;
     }
 }
 
- let output = loginme("Faizan", "faizan@gmail.com", true);
- console.log(output);
+ let result = loginme("Faizan", "faizan@gmail.com", true);
+
+ console.log(result);
+ console.log("Artificial Intellegence")
 
 
 
